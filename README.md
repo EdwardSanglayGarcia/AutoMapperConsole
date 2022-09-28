@@ -1,0 +1,2 @@
+# AutoMapperConsole
+test
